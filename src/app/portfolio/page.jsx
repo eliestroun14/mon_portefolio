@@ -1,6 +1,6 @@
 "use client";
 import { motion } from "framer-motion";
-import { useInView } from "framer-motion";
+import { useTransform } from "framer-motion";
 import { useScroll } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
