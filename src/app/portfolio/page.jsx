@@ -13,7 +13,7 @@ const items = [
     title: "My Navy",
     desc: "Projet consistant à recréer le jeu de la bataille navale, jouable à 2 dans des terminaux différents à l'aide des signaux en C. Utilisation des signaux, de bitshift et masques binaires.",
     img: "/battleship.svg",
-    link: "https://github.com/eliestroun14/B-PSU-100-REN-1-1-navy-elie.stroun",
+    link: "https://github.com/eliestroun14/My_Navy",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const items = [
     title: "Organized",
     desc: "Projet en C consistant à créer différentes fonction (add, delete, sort et display) afin de trier un grand nombre de données. Utilisation de listes chaînées et d'algroithmes de tri.",
     img: "/organized.png",
-    link: "https://github.com/eliestroun14/B-CPE-110-REN-1-1-organized-elie.stroun",
+    link: "https://github.com/eliestroun14/Organized",
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ const items = [
     title: "My Radar",
     desc: "Projet en C graphique (libraire CSFML). Créer un programme de simulation de vol d'avion prenant en paramètre un fichier de données (position de départ, arrivée, vitesse, position de tours de controle, etc). Utilisation de libraire externe (CSFML), gestion de collisions, Parsing.",
     img: "/myradar.png",
-    link: "https://github.com/eliestroun14/B-MUL-100-REN-1-1-myradar-elie.stroun",
+    link: "https://github.com/eliestroun14/MyRadar",
   },
   {
     id: 4,
